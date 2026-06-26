@@ -1,0 +1,72 @@
+2026-06-26 15:56:40,168 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:56:40,406 - INFO - Retrying request to /openai/v1/chat/completions in 0.498644 seconds
+2026-06-26 15:56:40,988 - INFO - Retrying request to /openai/v1/chat/completions in 0.968215 seconds
+2026-06-26 15:56:42,040 - ERROR - Error coming : Connection error.
+2026-06-26 15:56:42,040 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:56:42,127 - INFO - Retrying request to /openai/v1/chat/completions in 0.421587 seconds
+2026-06-26 15:56:42,636 - INFO - Retrying request to /openai/v1/chat/completions in 0.834266 seconds
+2026-06-26 15:56:43,563 - ERROR - Error coming : Connection error.
+2026-06-26 15:56:43,563 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:56:43,889 - INFO - Retrying request to /openai/v1/chat/completions in 0.465677 seconds
+2026-06-26 15:56:44,450 - INFO - Retrying request to /openai/v1/chat/completions in 0.966605 seconds
+2026-06-26 15:56:45,511 - ERROR - Error coming : Connection error.
+2026-06-26 15:56:45,511 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Connection error. | File: C:\Projects\Study AI\src\generator\question_generator.py | Line: 21
+2026-06-26 15:58:06,905 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:58:06,986 - INFO - Retrying request to /openai/v1/chat/completions in 0.423570 seconds
+2026-06-26 15:58:07,586 - INFO - Retrying request to /openai/v1/chat/completions in 0.894966 seconds
+2026-06-26 15:58:08,579 - ERROR - Error coming : Connection error.
+2026-06-26 15:58:08,579 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:58:08,659 - INFO - Retrying request to /openai/v1/chat/completions in 0.450550 seconds
+2026-06-26 15:58:09,194 - INFO - Retrying request to /openai/v1/chat/completions in 0.937384 seconds
+2026-06-26 15:58:10,216 - ERROR - Error coming : Connection error.
+2026-06-26 15:58:10,217 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 15:58:10,573 - INFO - Retrying request to /openai/v1/chat/completions in 0.462431 seconds
+2026-06-26 15:58:11,192 - INFO - Retrying request to /openai/v1/chat/completions in 0.843206 seconds
+2026-06-26 15:58:12,123 - ERROR - Error coming : Connection error.
+2026-06-26 15:58:12,123 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Connection error. | File: C:\Projects\Study AI\src\generator\question_generator.py | Line: 21
+2026-06-26 16:01:31,843 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:01:32,024 - INFO - Retrying request to /openai/v1/chat/completions in 0.457622 seconds
+2026-06-26 16:01:32,571 - INFO - Retrying request to /openai/v1/chat/completions in 0.965515 seconds
+2026-06-26 16:01:33,624 - ERROR - Error coming : Connection error.
+2026-06-26 16:01:33,624 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:01:33,706 - INFO - Retrying request to /openai/v1/chat/completions in 0.429610 seconds
+2026-06-26 16:01:34,226 - INFO - Retrying request to /openai/v1/chat/completions in 0.998989 seconds
+2026-06-26 16:01:35,327 - ERROR - Error coming : Connection error.
+2026-06-26 16:01:35,327 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:01:35,409 - INFO - Retrying request to /openai/v1/chat/completions in 0.429470 seconds
+2026-06-26 16:01:35,928 - INFO - Retrying request to /openai/v1/chat/completions in 0.801078 seconds
+2026-06-26 16:01:36,806 - ERROR - Error coming : Connection error.
+2026-06-26 16:01:36,806 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Connection error. | File: C:\Projects\Study AI\src\generator\question_generator.py | Line: 21
+2026-06-26 16:04:49,950 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:04:50,073 - INFO - Retrying request to /openai/v1/chat/completions in 0.399967 seconds
+2026-06-26 16:04:50,579 - INFO - Retrying request to /openai/v1/chat/completions in 0.767648 seconds
+2026-06-26 16:04:51,441 - ERROR - Error coming : Connection error.
+2026-06-26 16:04:51,441 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:04:51,529 - INFO - Retrying request to /openai/v1/chat/completions in 0.436820 seconds
+2026-06-26 16:04:52,052 - INFO - Retrying request to /openai/v1/chat/completions in 0.954422 seconds
+2026-06-26 16:04:53,085 - ERROR - Error coming : Connection error.
+2026-06-26 16:04:53,085 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:04:53,175 - INFO - Retrying request to /openai/v1/chat/completions in 0.415335 seconds
+2026-06-26 16:04:53,678 - INFO - Retrying request to /openai/v1/chat/completions in 0.998148 seconds
+2026-06-26 16:04:54,757 - ERROR - Error coming : Connection error.
+2026-06-26 16:04:54,757 - ERROR - Failed to generate MCQ : Generation failed after 3 attempts | Error: Connection error. | File: C:\Projects\Study AI\src\generator\question_generator.py | Line: 21
+2026-06-26 16:09:21,198 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:09:21,499 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-26 16:09:21,513 - INFO - Sucesfully parsed the question
+2026-06-26 16:09:21,514 - INFO - Generated a valid MCQ Question
+2026-06-26 16:09:21,514 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:09:21,758 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-26 16:09:21,761 - INFO - Sucesfully parsed the question
+2026-06-26 16:09:21,762 - INFO - Generated a valid MCQ Question
+2026-06-26 16:09:21,762 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:09:21,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-26 16:09:21,998 - INFO - Sucesfully parsed the question
+2026-06-26 16:09:21,998 - INFO - Generated a valid MCQ Question
+2026-06-26 16:09:21,999 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:09:22,170 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-26 16:09:22,171 - INFO - Sucesfully parsed the question
+2026-06-26 16:09:22,171 - INFO - Generated a valid MCQ Question
+2026-06-26 16:09:22,171 - INFO - Generating question for topic biology with difficulty medium
+2026-06-26 16:09:22,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-26 16:09:22,377 - INFO - Sucesfully parsed the question
+2026-06-26 16:09:22,378 - INFO - Generated a valid MCQ Question

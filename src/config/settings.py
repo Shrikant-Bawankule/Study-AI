@@ -5,7 +5,7 @@ load_dotenv()
 
 class Settings():
 
-    GROQ_API = os.getenv("GROQ_API_KEY")
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
     MODEL_NAME = "llama-3.1-8b-instant"
     TEMPERATURE = 0.8
     MAX_RETRIES = 3
