@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: Study-AI
+Version: 0.1
+Author: Shrikant
+Requires-Dist: langchain==0.2.16
+Requires-Dist: langchain-groq==0.1.9
+Requires-Dist: pandas==2.2.2
+Requires-Dist: streamlit==1.37.1
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: requires-dist

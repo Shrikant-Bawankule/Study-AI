@@ -1,1 +1,5 @@
+.venv\
+Study_AI.egg-info\
+.env
 .venv
+venv
