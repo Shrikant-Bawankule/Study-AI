@@ -1,5 +1,7 @@
-.venv\
-Study_AI.egg-info\
+.venv/
+Study_AI.egg-info
+.env/
+.venv/
+logs/
+results
 .env
-.venv
-venv
