@@ -5,3 +5,4 @@ Study_AI.egg-info
 logs/
 results
 .env
+zscaler_root.pem
